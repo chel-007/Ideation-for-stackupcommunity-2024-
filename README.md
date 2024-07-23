@@ -20,7 +20,12 @@ Stackup is a place to share practical knowledge and grow our developer experienc
 
 I have always wished for **design-related quests and bounties** to be released on Stackup (Earn) as a way for me to gain new insights into tools and techniques. However, I have come to understand that Stackup is more focused on code development. There have been a couple of design-related interests and questions from other stackies, and while I have some experience in this field, I haven’t taken the opportunity to share my insights with others.
 
-![learn pathways from exp stackies](new-pathways.png)
 Consider other intricate development topics that stackies are interested in, such as **static sites**, **progressive apps**, **Google Maps**, **no-code platforms**, **AI workflows**, **IoT development**, and **cloud platforms**.
 
-You (stackie) can learn these by yourself, but it helps to learn from people who have gone before you!
+![learn pathways from exp stackies](new-pathways.png)
+
+#### You (stackie) can learn these by yourself, but it helps to learn from people who have gone before you!
+
+
+## Ideation by Chel
+### - Stackie 2024
