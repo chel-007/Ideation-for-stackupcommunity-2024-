@@ -4,6 +4,8 @@ I have been a member of the **Stackup community** for close to two years now, an
 
 As a stackie, I have had to build upon some practical knowledge learned through my Stackup experience or look elsewhere for it. It has also occurred to me on several occasions that some stackies have a lot they can share with the rest of the community.
 
+![Learning Pathways](stackup-learn.png)
+
 The **Learning Pathways** in Stackup (Learn) have always fascinated me, and I check them regularly. But what do I do when they don’t contain pathways on a diverse set of topics I'm interested in?
 
 I’d like to suggest an improvement for this: Could the advanced knowledge, experience, and skillset developed by stackies also be **incorporated into this hub**?
