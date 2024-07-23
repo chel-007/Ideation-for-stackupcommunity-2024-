@@ -22,7 +22,7 @@ I have always wished for **design-related quests and bounties** to be released o
 
 Consider other intricate development topics that stackies are interested in, such as **static sites**, **progressive apps**, **Google Maps**, **no-code platforms**, **AI workflows**, **IoT development**, and **cloud platforms**.
 
-<img src="topics_chart.png" alt="new learning pathways" width="300"/>
+![learn pathways from exp stackies](new-pathways.png)
 
 #### You (stackie) can learn these by yourself, but it helps to learn from people who have gone before you!
 
